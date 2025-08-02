@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Portfolio",
+  "description": "A professional portfolio website that replaces a traditional resume, featuring an interactive AI assistant powered by Gemini to answer questions about skills and experience.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
